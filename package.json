@@ -1,0 +1,16 @@
+{
+  "name": "cloudwalk-tests-quake-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cls && node index.js"
+  },
+  "keywords": [
+    "quake",
+    "test",
+    "funny"
+  ],
+  "author": "Levi de Souza dos Santos",
+  "license": "ISC"
+}
